@@ -381,7 +381,7 @@ body{
 
 .footer .bottom .copy_con .con .con_items{
     height: 80%;
-    width: 20%;
+    width: 30%;
     display: flex;
     flex-direction: column;
     justify-content: center;
